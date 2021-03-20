@@ -1,7 +1,11 @@
 Jesus Badillo
+
 Geoffrey Fox
+
 Deep Learning Applications
+
 February 24, 2021
+
  The Transformation of the Automotive Industry
 Traditional transportation has begun to change, particularly because of the electrification of the automotive industry. Gas powered cars have run the market for years because of the amount of research that has been put into the internal combustion engine. However, this has changed due to the limits of gas as an energy source. This is because gas powered vehicles have a lower efficiency than electric motors. This happens because gas powered vehicles create little explosions to move each of the pistons on an engine to control the movement of the car. The problem with this system is that most of the energy, around 65 percent, is lost as heat due to the nature of the power source. Electric motors can exceed up to 90 percent efficiency so there is more potential to increase the range and horsepower of these vehicles. Note that the rate of transition from gas powered cars to electric cars depends on the increase of energy density of batteries, which is one of the more important problems being tackled in the electrification of the automotive industry. 
 
