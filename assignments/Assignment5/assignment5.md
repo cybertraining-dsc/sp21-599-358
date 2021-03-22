@@ -19,3 +19,6 @@ of CARLA, which requires a good GPU.
 > https://github.com/MichaelBosello/carla-colab.git
 
 ## CARLA Simulator
+
+#### A link to the CARLA Simulator's website is given below
+> http://carla.org/
