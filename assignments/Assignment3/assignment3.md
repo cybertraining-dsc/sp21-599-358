@@ -1,3 +1,9 @@
+:o2: sections not used in order
+
+:o2: empty lines missing
+
+:o2: refernces missing
+
 Jesus Badillo
 
 Geoffrey Fox
