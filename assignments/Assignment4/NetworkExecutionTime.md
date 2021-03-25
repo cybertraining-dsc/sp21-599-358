@@ -2,7 +2,7 @@
 
 :o2: empty lines missing
 
-:oe: explenation missing
+:o2: explenation missing
 
 :o2: no need th bf first column
 
