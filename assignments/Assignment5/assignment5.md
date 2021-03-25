@@ -1,5 +1,13 @@
 # Assignment 5
 
+:o2: author
+
+:o2: proper sections missing
+
+:o2: refernces as footnotes missing
+
+:o2: http links must be encupsulated in `<` `>`
+
 1. AI Algorithm and Tools
 
 I plan to use the a convolutional neural network to train a neural network that can tune the velocity and steering angle
