@@ -1,3 +1,13 @@
+:o2: title missing
+
+:o2: empty lines missing
+
+:oe: explenation missing
+
+:o2: no need th bf first column
+
+:o2: first comon not wide enough
+
 ## Execution Time Performance (CPU)
 |  Networks     | Data-Load | Compile |   Train   |   Test  |   Total   |
 | :------:      | :-------: | :-----: | :------:  | :-----: | :------:  |
