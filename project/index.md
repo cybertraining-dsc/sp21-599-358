@@ -4,7 +4,11 @@
 [![Status](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
 Status: final, Type: Project
 
-:o2: gregor's mod
+* :o2: Author missing
+* :o2: Introduction missing
+* :o2: Title missing
+* :o2: Abstract should be defined by now
+* :o2: Refernces shoudl be defined by now
 
 Gregor von Laszewski, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/blob/main/project/index.md)
 
