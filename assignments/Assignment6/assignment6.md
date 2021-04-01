@@ -25,7 +25,7 @@ to act much like the controllable inputs of a real vehicle. CARLA is an open-sou
 up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, 
 CARLA provides open digital urban layouts, buildings, and vehicles that were created for this purpose and can be used freely.
 The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static
-and dynamic actors, maps generation [^4]. The data gathered will be created by driving the vehicle in the simulator and using the
+and dynamic actors, maps generation [^2]. The data gathered will be created by driving the vehicle in the simulator and using the
 camera feed so that the neural network can be trained. The driving in the simulator looks like the image below.
 
 ### Driving in CARLA
@@ -35,9 +35,10 @@ camera feed so that the neural network can be trained. The driving in the simula
 ### Running CARLA in Google Colab
 
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
-of CARLA, which requires a good GPU. 
+of CARLA, which requires a good GPU. Note that using this requires one to download TurboVNC and Cloudfared to be able to run CARLA Remotely.
+The link
 
-<https://github.com/MichaelBosello/carla-colab.git>
+> <https://github.com/MichaelBosello/carla-colab.git>
 
 ### A link to the CARLA Simulator's website is given below
 
