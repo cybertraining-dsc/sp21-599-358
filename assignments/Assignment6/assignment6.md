@@ -8,7 +8,10 @@
 
 :o2: http links must be encupsulated in `<` `>`
 
-## Fixing 
+## Training A Vehicle Using Camera Feed from Vehicle Simulation
+
+Making cars self driving has been a pro
+
 ## AI Algorithm and Tools
 
 I plan to use the a convolutional neural network to train a neural network that can tune the velocity and steering angle
@@ -31,4 +34,8 @@ of CARLA, which requires a good GPU.
 ![](CARLA_Image.png)
 
 ### A link to the CARLA Simulator's website is given below
-<http://carla.org/>
+
+## References
+
+[^1]:https://github.com/MichaelBosello/carla-colab.git
+[^2]:http://carla.org/
