@@ -34,11 +34,13 @@ The link to the GitHub repository below provides more instructions on how to use
 > <https://github.com/MichaelBosello/carla-colab.git>
 
 ## Deep Learning Algorithm for Self Driving Cars
-
 To train the neural network for the self driving car I will be using a neural network that can learn from its previous iterations much like
 q-learning. This class of neural network is called deep Q-Learning and it uses reinforcement learning to map the actions and Q-values transitions
 to the input states [^5]. This approach replaces the Q-table from traditional reinforcement learning with neural networks which train the decision
 making process of the vehicle.
+
+## Existing Efforts
+
 
 ## References
 
