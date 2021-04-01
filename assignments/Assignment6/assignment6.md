@@ -36,11 +36,13 @@ camera feed so that the neural network can be trained. The driving in the simula
 
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
 of CARLA, which requires a good GPU. Note that using this requires one to download TurboVNC and Cloudfared to be able to run CARLA Remotely.
-The link
+The link to the GitHub repository below provides more instructions on how to use this notebook to run CARLA.
 
 > <https://github.com/MichaelBosello/carla-colab.git>
 
-### A link to the CARLA Simulator's website is given below
+## Deep Learning Algorithm for Self Driving Cars
+
+
 
 ## References
 
