@@ -32,7 +32,7 @@ camera feed so that the neural network can be trained. The driving in the simula
 ![](CARLA_Image.png)
 [^3]
 
-## Open-Source GitHub
+### Running CARLA in Google Colab
 
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
 of CARLA, which requires a good GPU. 
