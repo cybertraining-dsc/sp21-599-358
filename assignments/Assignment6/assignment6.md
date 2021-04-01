@@ -10,7 +10,11 @@
 
 ## Training A Vehicle Using Camera Feed from Vehicle Simulation
 
-Making cars self driving has been a pro
+Making cars self driving has been a problem that many car companies have been trying to tackle in the 21st century.
+There are many different approaches that have been used which all involve deep learning. The approaches all train data
+that are gathered from a variety of sensors working together. Lidar and computer vision are the main sensors that are
+used by commercial companies. Tesla uses video gathered from multiple cameras to train their neural network [^4] which
+is known as HydraNet.
 
 ## AI Algorithm and Tools
 
@@ -41,3 +45,4 @@ of CARLA, which requires a good GPU.
 [^1]:https://github.com/MichaelBosello/carla-colab.git
 [^2]:http://carla.org/
 [^3]:https://carla.readthedocs.io/en/0.9.7/getting_started/
+[^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
