@@ -49,6 +49,9 @@ network. A link to the video is shown below
 > <https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s>
 > [^6]
 
+## Timeline
+
+
 ## References
 
 [^1]:https://github.com/MichaelBosello/carla-colab.git
