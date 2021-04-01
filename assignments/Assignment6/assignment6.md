@@ -1,12 +1,5 @@
 # Assignment 6
 
-:o2: author
-
-:o2: proper sections missing
-
-:o2: refernces as footnotes missing
-
-:o2: http links must be encupsulated in `<` `>`
 
 ## Training A Vehicle Using Camera Feed from Vehicle Simulation
 
