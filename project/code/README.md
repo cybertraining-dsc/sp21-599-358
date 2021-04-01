@@ -8,6 +8,3 @@ The code must be documented.
 
 If the output of the notebook is to large (please check the size), you only must be committing the source and 
 create the PDF. the PDF should be referred to in the notebook as a link.
-
-
-
