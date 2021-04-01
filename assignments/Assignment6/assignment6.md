@@ -46,7 +46,7 @@ making process of the vehicle.
 An effort by a youtuber named Siraj Raval shows the process of training a vehicle to run autonomously using NVIDIA's end to end learning
 network. A link to the video is shown below
 
-><https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s>
+> <https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s> [^6]
 
 ## References
 
@@ -55,3 +55,4 @@ network. A link to the video is shown below
 [^3]:https://carla.readthedocs.io/en/0.9.7/getting_started/
 [^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
 [^5]:https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
+[^6]:https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s
