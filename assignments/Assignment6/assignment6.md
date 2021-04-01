@@ -51,6 +51,7 @@ network. A link to the video is shown below
 
 ## Timeline
 
+![](Timeline.png)
 
 ## References
 
