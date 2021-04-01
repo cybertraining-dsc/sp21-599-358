@@ -33,9 +33,11 @@ of CARLA, which requires a good GPU.
 ## CARLA Simulator
 ![](CARLA_Image.png)
 
+
 ### A link to the CARLA Simulator's website is given below
 
 ## References
 
 [^1]:https://github.com/MichaelBosello/carla-colab.git
 [^2]:http://carla.org/
+[^3]:
