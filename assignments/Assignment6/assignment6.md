@@ -8,7 +8,7 @@
 
 :o2: http links must be encupsulated in `<` `>`
 
-##AI Algorithm and Tools
+## AI Algorithm and Tools
 
 I plan to use the a convolutional neural network to train a neural network that can tune the velocity and steering angle
 of a vehicle simulation so that the vechicle will be able to drive itself. The data will come from the CARLA simulator which
@@ -19,14 +19,14 @@ driving systems. In addition to open-source code and protocols, CARLA provides o
 that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites,
 environmental conditions, full control of all static and dynamic actors, maps generation.
 
-##Open-Source GitHub
+## Open-Source GitHub
 
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
 of CARLA, which requires a good GPU. 
 
 < https://github.com/MichaelBosello/carla-colab.git >
 
-##CARLA Simulator
+## CARLA Simulator
 ![](CARLA_Image.png)
 
 ### A link to the CARLA Simulator's website is given below
