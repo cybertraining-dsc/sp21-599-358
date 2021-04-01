@@ -17,14 +17,18 @@ used by commercial companies. Tesla uses video gathered from multiple cameras to
 is known as HydraNet. In this project, a simulation of a real driving vehicle with a camera feed will be used to train
 a neural network that will attempt to make the car drive itself. 
 
-## Dataset
+## Using the CARLA Simulator
 
 The data will come from the CARLA simulator which uses the driver inputs and puts into a driving log which contains data of
 the trajectory and the surroundings of the simulated vehicle. The CARLA simulator uses the the steering angle and throttle
-to act much like the controllable inputs of a real vehicle. CARLA is an open-source CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital
-urban layouts, buildings, and vehicles that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static and dynamic actors, maps generation. [^4]
+to act much like the controllable inputs of a real vehicle. CARLA is an open-source CARLA has been developed from the ground
+up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, 
+CARLA provides open digital urban layouts, buildings, and vehicles that were created for this purpose and can be used freely.
+The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static
+and dynamic actors, maps generation [^4]. The data gathered will be created by driving the vehicle in the simulator and using the
+camera feed so that the neural network can be trained. The driving in the simulator looks like the image below.
 
-## CARLA Simulator
+### Driving in CARLA
 ![](CARLA_Image.png)
 [^3]
 
