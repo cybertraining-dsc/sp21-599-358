@@ -35,14 +35,17 @@ camera feed so that the neural network can be trained. The driving in the simula
 ### Running CARLA in Google Colab
 
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
-of CARLA, which requires a good GPU. Note that using this requires one to download TurboVNC and Cloudfared to be able to run CARLA Remotely.
+of CARLA, which requires a good GPU. Note that using this requires one to download TurboVNC and Cloudfared to be able to run CARLA remotely.
 The link to the GitHub repository below provides more instructions on how to use this notebook to run CARLA.
 
 > <https://github.com/MichaelBosello/carla-colab.git>
 
 ## Deep Learning Algorithm for Self Driving Cars
 
-
+To train the neural network for the self driving car I will be using a neural network that can learn from its previous iterations much like
+q-learning. This class of neural network is called deep Q-Learning and it uses reinforcement learning to map the actions and Q-values transitions
+to the input states [^5]. This approach replaces the Q-table from traditional reinforcement learning with neural networks which train the decision
+making process of the vehicle.
 
 ## References
 
@@ -50,3 +53,4 @@ The link to the GitHub repository below provides more instructions on how to use
 [^2]:http://carla.org/
 [^3]:https://carla.readthedocs.io/en/0.9.7/getting_started/
 [^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
+[^5]:https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
