@@ -8,6 +8,7 @@
 
 :o2: http links must be encupsulated in `<` `>`
 
+## Fixing 
 ## AI Algorithm and Tools
 
 I plan to use the a convolutional neural network to train a neural network that can tune the velocity and steering angle
@@ -24,10 +25,10 @@ environmental conditions, full control of all static and dynamic actors, maps ge
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
 of CARLA, which requires a good GPU. 
 
-< https://github.com/MichaelBosello/carla-colab.git >
+<https://github.com/MichaelBosello/carla-colab.git>
 
 ## CARLA Simulator
 ![](CARLA_Image.png)
 
 ### A link to the CARLA Simulator's website is given below
-< http://carla.org/ >
+<http://carla.org/>
