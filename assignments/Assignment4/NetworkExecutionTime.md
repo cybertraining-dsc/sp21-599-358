@@ -9,6 +9,7 @@
 :o2: first comon not wide enough
 
 ## Execution Time Performance (CPU)
+
 |  Networks     | Data-Load | Compile |   Train   |   Test  |   Total   |
 | :------:      | :-------: | :-----: | :------:  | :-----: | :------:  |
 | **MLP**       |  0.438s	  | 0.124s	| 68.099s   | 0.885s  | 69.546s   |
@@ -18,6 +19,7 @@
 |**Autoencoder**|  0.521s	  | 0.875s	| 146.194s	| 6.035s	| 153.625s  |
 
 ## Execution Time Performance (GPU)
+
 |  Networks     | Data-Load | Compile |   Train   |   Test  |   Total   |
 | :------:      | :-------: | :-----: | :------:  | :-----: | :------:  |
 | **MLP**       |  0.608s	  | 0.111s	| 11.099s   | 0.349s  | 12.167s   |
@@ -27,6 +29,7 @@
 |**Autoencoder**|  0.296s	  | 5.686s	| 12s	      | 1.292s	| 19.274s   |
 
 ## Execution Time Performance (TPU)
+
 |  Networks     | Data-Load | Compile |   Train   |   Test  |   Total   |
 | :------:      | :-------: | :-----: | :------:  | :-----: | :------:  |
 | **MLP**       |  0.361s	  | 0.012s	| 45.546s   | 1.425s  | 47.344s   |
@@ -36,6 +39,7 @@
 |**Autoencoder**|  0.355s	  | 0.563s	| 38.689s   | 2.28s	  | 41.887s   |
 
 ## Execution Time Performance (All Hardware Totals)
+
 |  Networks     | Data-Load | Compile |   Train   |
 | :------:      | :-------: | :-----: | :------:  | 
 | **MLP**       |  69.546s  | 12.167s	| 47.344s   |
