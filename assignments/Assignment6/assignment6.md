@@ -33,7 +33,7 @@ of CARLA, which requires a good GPU. Note that using this requires one to downlo
 The link to the GitHub repository below provides more instructions on how to use this notebook to run CARLA.
 
 > <https://github.com/MichaelBosello/carla-colab.git>
-
+> [^1]
 ## Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car I will be using a neural network that can learn from its previous iterations much like
@@ -47,7 +47,7 @@ An effort by a youtuber named Siraj Raval shows the process of training a vehicl
 network. A link to the video is shown below
 
 > <https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s>
-[^6]
+> [^6]
 
 ## References
 
