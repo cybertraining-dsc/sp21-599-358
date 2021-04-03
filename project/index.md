@@ -43,7 +43,7 @@ Please not that an up to date version of these instructions is available at
 
 Here comes a convincing introduction to the problem
 
-## Using the CARLA Simulator
+## 2. Using the CARLA Simulator
 
 The data will come from the CARLA simulator which uses the driver inputs and puts into a driving log which contains data of
 the trajectory and the surroundings of the simulated vehicle. The CARLA simulator uses the the steering angle and throttle
@@ -67,23 +67,22 @@ The link to the GitHub repository below provides more instructions on how to use
 
 > <https://github.com/MichaelBosello/carla-colab.git>
 > [^1]
-## Deep Learning Algorithm for Self Driving Cars
+## 3. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car I will be using a neural network that can learn from its previous iterations much like
 q-learning. This class of neural network is called deep Q-Learning and it uses reinforcement learning to map the actions and Q-values transitions
 to the input states [^5]. This approach replaces the Q-table from traditional reinforcement learning with neural networks which train the decision
 making process of the vehicle.
 
-## a
-
-## c
-
-## b
-
-## 6. Benchmark
+## 4. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
- 
+
+
+## 5. Benchmark
+
+Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+
 ## 6. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
