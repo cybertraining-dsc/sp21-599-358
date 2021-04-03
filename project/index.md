@@ -56,7 +56,7 @@ camera feed so that the neural network can be trained. The driving in the simula
 
 ### Driving in CARLA
 
-![](sp21-599-358/project/images/CARLA_Image.png)
+![](../images/CARLA_Image.png)
 [^3]
 
 ### Running CARLA in Google Colab
