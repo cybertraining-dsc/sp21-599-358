@@ -16,7 +16,7 @@ Jesus Badillo, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/
 
 ## Abstract
 
-Her comes a short abstract of the project that summarizes what it is about
+Deep Learning has become the main form of machine learning that has been used to train, test, and gather data for self-driving cars. The CARLA simulator has been developed from the ground up so that reasearchers who normally do not have the capital to generate their own data for self-driving vehicles can do so to fit their spcific model. CARLA provides many tools that can simulate many scenarios that an autonomous vehicle would run into. The benefit of CARLA is that it can simulate scenarios that may be too dangerous for a real vehicle to perform, such as a full self-driving car in a heavly populated area. CARLA has the backing of many companies who lead industry like toyota who invested $100,000 dollars in 2018 [^7].
 
 Contents
 
@@ -100,3 +100,4 @@ Please add acknowledgments to all that contributed or helped on this project.
 [^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
 [^5]:https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
 [^6]:https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s
+[^7]:https://www.tu-auto.com/toyota-invests-in-carla-open-source-av-simulator-project/
