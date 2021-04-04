@@ -1,4 +1,4 @@
-# Training A Vehicle Using Camera Feed from Vehicle Simulation
+# Project: Training A Vehicle Using Camera Feed from Vehicle Simulation
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
