@@ -26,3 +26,12 @@ of CARLA, which requires a good GPU.
 
 #### A link to the CARLA Simulator's website is given below
 > <http://carla.org/>
+
+## References
+
+[^1]:https://github.com/MichaelBosello/carla-colab.git
+[^2]:http://carla.org/
+[^3]:https://carla.readthedocs.io/en/0.9.7/getting_started/
+[^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
+[^5]:https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
+[^6]:https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s
