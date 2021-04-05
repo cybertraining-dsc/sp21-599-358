@@ -1,11 +1,5 @@
 # Assignment 5
 
-:o2: proper sections missing
-
-:o2: refernces as footnotes missing
-
-:o2: http links must be encupsulated in `<` `>`
-
 Jesus Badillo,  [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/edit/main/assignments/Assignment5/assignment5.md)
 
 
@@ -25,10 +19,10 @@ environmental conditions, full control of all static and dynamic actors, maps ge
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
 of CARLA, which requires a good GPU. 
 
-> https://github.com/MichaelBosello/carla-colab.git
+> <https://github.com/MichaelBosello/carla-colab.git>
 
 ## CARLA Simulator
 ![](CARLA_Image.png)
 
 #### A link to the CARLA Simulator's website is given below
-> http://carla.org/
+> <http://carla.org/>
