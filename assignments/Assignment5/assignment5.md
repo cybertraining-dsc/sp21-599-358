@@ -1,14 +1,14 @@
 # Assignment 5
 
-:o2: author
-
 :o2: proper sections missing
 
 :o2: refernces as footnotes missing
 
 :o2: http links must be encupsulated in `<` `>`
 
-1. AI Algorithm and Tools
+Jesus Badillo
+
+## 1. AI Algorithm and Tools
 
 I plan to use the a convolutional neural network to train a neural network that can tune the velocity and steering angle
 of a vehicle simulation so that the vechicle will be able to drive itself. The data will come from the CARLA simulator which
@@ -19,7 +19,7 @@ driving systems. In addition to open-source code and protocols, CARLA provides o
 that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites,
 environmental conditions, full control of all static and dynamic actors, maps generation.
 
-2. Open-Source GitHub
+## 2. Open-Source GitHub
 
 To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
 of CARLA, which requires a good GPU. 
