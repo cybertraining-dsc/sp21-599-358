@@ -1,5 +1,6 @@
 # Assignment 6
 
+Jesus Badillo,  [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/edit/main/assignments/Assignment6/assignment6.md)
 
 ## Training A Vehicle Using Camera Feed from Vehicle Simulation
 
