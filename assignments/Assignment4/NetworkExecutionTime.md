@@ -1,7 +1,6 @@
-:o2: title missing
+# Network Exexcution Time
 
-:o2: empty lines missing
-
+Jesus Badillo,  [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/edit/main/assignments/Assignment4/assignment4.md)
 :o2: explenation missing
 
 :o2: no need th bf first column
