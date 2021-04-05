@@ -6,7 +6,8 @@
 
 :o2: http links must be encupsulated in `<` `>`
 
-Jesus Badillo
+Jesus Badillo,  [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/blob/main/assigments/Assignment5/assignment5.md)
+
 
 ## 1. AI Algorithm and Tools
 
