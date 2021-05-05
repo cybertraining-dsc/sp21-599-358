@@ -17,7 +17,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** tensorflow, example. 
+**Keywords:** tensorflow, example.
 
 ## 1. Introduction
 
