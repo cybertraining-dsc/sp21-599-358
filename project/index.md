@@ -55,10 +55,12 @@ camera feed so that the neural network can be trained. The driving in the simula
 
 ### Running CARLA
 
-The CARLA simulator is used on visu
-
-> <https://github.com/MichaelBosello/carla-colab.git>
+In this study the CARLA version 0.9.9 is being used along with python 3.7 to control the vehicle. The vehicle being used in this paper is a
+red Tesla Model3 with only one camera sensor. 
+#### Download for CARLA version 0.9.9
+> <https://github.com/carla-simulator/carla/releases/tag/0.9.9
 > [^1]
+
 ## 3. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
@@ -85,7 +87,7 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
-[^1]:https://github.com/MichaelBosello/carla-colab.git
+[^1]:https://github.com/carla-simulator/carla/releases/tag/0.9.9
 [^2]:http://carla.org/
 [^3]:https://carla.readthedocs.io/en/0.9.9/getting_started/
 [^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
