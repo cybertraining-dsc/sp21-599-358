@@ -60,10 +60,13 @@ This project uses windows 10 along with visual studio code and python 3.7. Note 
 is a resource intensive program.
 
 > OS Version: Windows 10.0.18363 Build 18363
-
 > GPU: NVIDIA GTX 1660 Super
 
 > RAM: 32 GB
+
+|OS Version|GPU|RAM|
+|----|----|----|
+|Windows 10.0.18363 Build 18363|NVIDIA GTX 1660 Super|32 GB|
 
 In this study the CARLA version 0.9.9 is being used along with python 3.7 to control the vehicle. The vehicle being used in this paper is a
 red Tesla Model3 with only one camera sensor. 
