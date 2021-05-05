@@ -59,11 +59,6 @@ camera feed so that the neural network can be trained. The driving in the simula
 This project uses windows 10 along with visual studio code and python 3.7. Note that this project may work with other systems, but CARLA
 is a resource intensive program.
 
-> OS Version: Windows 10.0.18363 Build 18363
-> GPU: NVIDIA GTX 1660 Super
-
-> RAM: 32 GB
-
 |OS Version|GPU|RAM|
 |----|----|----|
 |Windows 10.0.18363 Build 18363|NVIDIA GTX 1660 Super|32 GB|
