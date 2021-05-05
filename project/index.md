@@ -93,7 +93,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 8. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.
+The author if this project would like to thank Harrison Kinsley from the youtube channel SentDex for providing good resources for how to use deep learning using carla and tensorflow. The author would also like to thank Dr. Gregor von Laszewski for feedback on this report, and Dr. Geoffrey Fox for sharing his knowledge in Deep Learning and Artificial Intelligence throughout this course taught at Indiana University, Bloomington.
 
 ## 9. References
 
