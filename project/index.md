@@ -10,8 +10,7 @@ Jesus Badillo, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/
 
 ## Abstract
 
-Deep Learning has become the main form of machine learning that has been used to train, test, and gather data for self-driving cars. The CARLA simulator has been developed from the ground up so that reasearchers who normally do not have the capital to generate their own data for self-driving vehicles can do so to fit their spcific model. CARLA provides many tools that can simulate many scenarios that an autonomous vehicle would run into. The benefit of CARLA is that it can simulate scenarios that may be too dangerous for a real vehicle to perform, such as a full self-driving car in a heavly populated area. CARLA has the backing of many companies who lead industry like toyota who invested $100,000 dollars in 2018 [^7]. This project uses the CARLA simulator to generate a dataset which contains camera images as well as data of the trajectory of the vehicle.
-
+Deep Learning has become the main form of machine learning that has been used to train, test, and gather data for self-driving cars. The CARLA simulator has been developed from the ground up so that reasearchers who normally do not have the capital to generate their own data for self-driving vehicles can do so to fit their spcific model. CARLA provides many tools that can simulate many scenarios that an autonomous vehicle would run into. The benefit of CARLA is that it can simulate scenarios that may be too dangerous for a real vehicle to perform, such as a full self-driving car in a heavly populated area. CARLA has the backing of many companies who lead industry like toyota who invested $100,000 dollars in 2018 [^7]. This project uses the CARLA simulator to visualize how a real camera system based self-driving car sees obstablces and objects.
 Contents
 
 {{< table_of_contents >}}
@@ -27,8 +26,8 @@ Making cars self driving has been a problem that many car companies have been tr
 There are many different approaches that have been used which all involve deep learning. The approaches all train data
 that are gathered from a variety of sensors working together. Lidar and computer vision are the main sensors that are
 used by commercial companies. Tesla uses video gathered from multiple cameras to train their neural network [^4] which
-is known as HydraNet. In this project, a simulation of a real driving vehicle with a camera feed will be used to train
-a neural network that will attempt to make the car drive itself. 
+is known as HydraNet. In this project, a simulation of a real driving vehicle with a camera feed will be used to see the
+objects that a car would need to see to train the vehicle to be self-driving
 
 
 Please not that an up to date version of these instructions is available at
@@ -39,7 +38,7 @@ Here comes a convincing introduction to the problem
 
 ## 2. Using the CARLA Simulator
 
-The data will come from the CARLA simulator which uses the driver inputs and puts into a driving log which contains data of
+The CARLA simulator which uses the driver inputs and puts into a driving log which contains data of
 the trajectory and the surroundings of the simulated vehicle. The CARLA simulator uses the the steering angle and throttle
 to act much like the controllable inputs of a real vehicle. CARLA is an open-source CARLA has been developed from the ground
 up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, 
@@ -54,11 +53,9 @@ camera feed so that the neural network can be trained. The driving in the simula
 **Figure 1**
 [^3]
 
-### Running CARLA in Google Colab
+### Running CARLA
 
-To use the CARLA Simulator in google colab we can use the open-souce github below which allows one to use a fully functioning version 
-of CARLA, which requires a good GPU. Note that using this requires one to download TurboVNC and Cloudfared to be able to run CARLA remotely.
-The link to the GitHub repository below provides more instructions on how to use this notebook to run CARLA.
+The CARLA simulator is used on visu
 
 > <https://github.com/MichaelBosello/carla-colab.git>
 > [^1]
@@ -90,7 +87,7 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 [^1]:https://github.com/MichaelBosello/carla-colab.git
 [^2]:http://carla.org/
-[^3]:https://carla.readthedocs.io/en/0.9.7/getting_started/
+[^3]:https://carla.readthedocs.io/en/0.9.9/getting_started/
 [^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
 [^5]:https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
 [^6]:https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s
