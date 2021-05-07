@@ -100,7 +100,7 @@ q-learning. This class of neural network is called deep Q-Learning and it uses r
 to the input states [^5]. This approach replaces the Q-table from traditional reinforcement learning with neural networks which train the decision
 making process of the vehicle.
 
-## 5. Results
+## 6. Results
 
 > <https://drive.google.com/file/d/13RXIy74APbwSqV_zBs_v59v4ZOnWdtrT/view?usp=sharing
 > 
@@ -108,7 +108,7 @@ making process of the vehicle.
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
 
-## 6. Conclusion
+## 7. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
