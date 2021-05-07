@@ -116,11 +116,14 @@ the Protobuf libraries must be downloaded and compiled [^8]. Make sure that you 
 the model within the directory structure run the commands below.
 
 #### Run the pwd command from powershell and get the path from root to Downloads folder
+
 > pwd
 
 #### When running the command make sure that you are in '~/Downloads/models-master/research'
-> 'PathFromDownloads/Downloads'/protoc object_detection/protos/*.proto --python_out=.
 
+```
+'PathFromDownloads/Downloads'/protoc object_detection/protos/*.proto --python_out=.
+```
 The command shown above configures protobuf so that the object detection API could be used. Make sure you are in the Downloads/models-master/research path.
 Run the commands below to install all of the necessary packages to run the object detection API.
 
@@ -138,7 +141,7 @@ After installing the packages test your installation from the Downloads/models-m
 
 If the test was successful than you will a result similar to the one showed in Figure 3.
 
-> ![Figure3](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ModelSuccess.PNG)
+![Figure3](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ModelSuccess.PNG)
 
 **Figure 3**
 
