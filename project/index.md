@@ -203,7 +203,8 @@ The author if this project would like to thank Harrison Kinsley from the youtube
 
 ## 9. References
 
-[^1]: Link to the Carla_0.9.9 github, [GitHub]https://github.com/carla-simulator/carla/releases/tag/0.9.9
+[^1]: Link to the Carla_0.9.9 github, [GitHub]
+      <https://github.com/carla-simulator/carla/releases/tag/0.9.9>
 [^2]:http://carla.org/
 [^3]:https://carla.readthedocs.io/en/0.9.9/getting_started/
 [^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
