@@ -52,11 +52,14 @@ The simulation platform supports flexible specification of sensor suites, enviro
 and dynamic actors, maps generation [^2]. The simulation will be created by driving the vehicle in the simulator and using the
 camera feed so that the neural network can be trained. Driving in the simulator looks much like Figure 1.
 
-### Driving in CARLA
-
 ![Figure1](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/CARLA_Image.png)
 
-**Figure 1** [^3]
+**Figure 1** Driving in Carla Simulator [^3]
+
+### 2.1 Existing Work on Carla
+
+The tutorials over Carla from the youtuber SentDex provide a good introduction into projects that could use deep learning to train self-driving cars.
+His tutorials provide a good insight into the Carla Environment so that one could perform their own study [^5].
 
 ## 3. Using the TensorFlow Object Detection API
 
@@ -65,11 +68,9 @@ for self-driving cars because it can provide known obstacles where the vehicle i
 on the COCO dataset which is a dataset consisting of about 300,000 of 90 of the most commonly found objects. Google provided this API to
 improve the state of the Computer vision field. Figure2 shows how the bounding boxes classify images using the object detection API. 
 
-### Obect Detection for Cars
-
 ![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ObjectCars.PNG)
 
-**Figure 2** [^10]
+**Figure 2** Obect Detection for Cars [^10]
 
 ## 4. Implementation
 
@@ -166,15 +167,22 @@ Downloads
 |---models-master
 |---protoc
   
-## 5. Deep Learning Algorithm for Self Driving Cars
+## 5. Training Model
 
-To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
-q-learning. This class of neural network is called deep Q-Learning and it uses reinforcement learning to map the actions and Q-values transitions
-to the input states [^5]. This approach replaces the Q-table from traditional reinforcement learning with neural networks which train the decision
-making process of the vehicle.
+To perform the object detection in the Cara simulator this project uses the TensorFlow object detection API. The model
+
+|Model Name|Speed|COCO mAP|
+|----|----|----|
+|ssd_mobilenet_v1_coco|fast|21|
+|ssd_inception_v2_coco|fast|24|
+|rfcn_resnet101_coco|medium|30|
+|faster_rcnn_resnet101_coc0|medium|32|
+|faster_rcnn_inception_resnet_v2_astrous_coco|slow|37|
+
 
 ## 6. Results
 
+The accuracy of the model used kjnsd
 ![Figure4](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ProgramRunning.PNG)
 
 **Figure 4**
@@ -183,15 +191,13 @@ making process of the vehicle.
 
 ## 7. Benchmark
 
-The benchmark used for this project was the StopWatch function from the cloudmesh package [^11]. The function can see how long a particular section
+The benchmark used for this project was the StopWatch function from the cloudmesh package [^10]. The function can see how long a particular section
 of code took compared to a different section in the program. In this project the section that took the longest was to setup pedestrian and traffic accross
 the simulated city. This makes sense because there are many vehicles and pedestrians that need to be spawned while also pre computing there trajectories.
 
 ![Figure5](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/Benchmark.PNG)
 
 **Figure 5**
-
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
 
 ## 8. Conclusion
 
