@@ -165,6 +165,10 @@ making process of the vehicle.
 
 ## 6. Results
 
+![Figure4](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ProgramRunning.PNG)
+
+**Figure 4**
+
 > <https://drive.google.com/file/d/13RXIy74APbwSqV_zBs_v59v4ZOnWdtrT/view?usp=sharing>
 
 ## 5. Benchmark
