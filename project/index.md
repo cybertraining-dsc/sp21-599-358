@@ -183,9 +183,9 @@ making process of the vehicle.
 
 ## 7. Benchmark
 
-![Figure4](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ProgramRunning.PNG)
+![Figure5](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/Benchmark.PNG)
 
-**Figure 4**
+**Figure 5**
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
 
