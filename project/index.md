@@ -2,13 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
-Status: in progress, Type: Project
-
-
-* TODO: pleas euse proper newlines after image inclusion and between figures
-* TODO: citations in a figure must be in the same line
-* TODO: please review our example report we posted. YOu create just more work for yourself while inventing your own format.
-* TODO: code is embadded in three quotes
+Status: final, Type: Project
 
 Jesus Badillo, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/blob/main/project/index.md)
 
@@ -16,7 +10,13 @@ Jesus Badillo, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/
 
 ## Abstract
 
-Deep Learning has become the main form of machine learning that has been used to train, test, and gather data for self-driving cars. The CARLA simulator has been developed from the ground up so that reasearchers who normally do not have the capital to generate their own data for self-driving vehicles can do so to fit their spcific model. CARLA provides many tools that can simulate many scenarios that an autonomous vehicle would run into. The benefit of CARLA is that it can simulate scenarios that may be too dangerous for a real vehicle to perform, such as a full self-driving car in a heavly populated area. CARLA has the backing of many companies who lead industry like toyota who invested $100,000 dollars in 2018 [^6]. This project uses the CARLA simulator to visualize how a real camera system based self-driving car sees obstacles and objects.
+Deep Learning has become the main form of machine learning that has been used to train, test, and gather data for self-driving cars. The CARLA simulator
+has been developed from the ground up so that reasearchers who normally do not have the capital to generate their own data for self-driving vehicles
+can do so to fit their spcific model. CARLA provides many tools that can simulate many scenarios that an autonomous vehicle would run into. The benefit
+of CARLA is that it can simulate scenarios that may be too dangerous for a real vehicle to perform, such as a full self-driving car in a heavly populated
+area. CARLA has the backing of many companies who lead industry like Toyota who invested $100,000 dollars in 2018 [^6]. This project uses the CARLA 
+simulator to visualize how a real camera system based self-driving car sees obstacles and objects.
+
 Contents
 
 {{< table_of_contents >}}
@@ -27,19 +27,12 @@ Contents
 
 ## 1. Introduction
 
-
 Making cars self driving has been a problem that many car companies have been trying to tackle in the 21st century.
 There are many different approaches that have been used which all involve deep learning. The approaches all train data
 that are gathered from a variety of sensors working together. Lidar and computer vision are the main sensors that are
 used by commercial companies. Tesla uses video gathered from multiple cameras to train their neural network [^4] which
 is known as HydraNet. In this project, a simulation of a real driving vehicle with a camera feed will be used to see the
 objects that a car would need to see to train the vehicle to be self-driving
-
-Please not that an up to date version of these instructions is available at
-
-* <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
-
-Here comes a convincing introduction to the problem
 
 ## 2. Using the CARLA Simulator
 
@@ -112,7 +105,7 @@ Make sure to clone this git repository into the Downloads folder of your windows
 
 #### The link to the ProtoBuf repository download is shown below:
 
-> <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip>
+> <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip> [^11]
 
 The Tensorflow Object Detection API uses Protobufs to configure model and training parameters. Before the framework can be used,
 the Protobuf libraries must be downloaded and compiled [^8]. Make sure that you extract the file to the Downloads folder. To configure
@@ -259,3 +252,6 @@ his knowledge in Deep Learning and Artificial Intelligence throughout this cours
 
 [^10]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
+
+[^11]: Protobuf github download, [GitHub] 
+      <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip>
