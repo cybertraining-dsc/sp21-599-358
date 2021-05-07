@@ -81,7 +81,7 @@ In this study the CARLA version 0.9.9 is being used along with python 3.7 to con
 ### 4.2 Download and Install CARLA
 
 #### Download for CARLA version 0.9.9
-> <https://github.com/carla-simulator/carla/releases/tag/0.9.9
+> < https://github.com/carla-simulator/carla/releases/tag/0.9.9
 > [^1]
 
 The file to download is shown below:
