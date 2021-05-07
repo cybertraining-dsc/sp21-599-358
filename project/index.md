@@ -59,15 +59,15 @@ for self-driving cars because it can provide known obstacles where the vehicle i
 on the COCO dataset which is a dataset consisting of about 300,000 of 90 of the most commonly found objects. Google provided this API to
 improve the state of the Computer vision field. Figure2 shows how the bounding boxes classify images using the object detection API. 
 
-### Obect Detction for Cars
+### Obect Detection for Cars
 
 ![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ObjectCars.PNG)
 **Figure 2**
-[^3]
+[^10]
 
 ## 4. Implementation
 
-#### System Requirements
+### 4.1 System Requirements
 
 This project uses windows 10 along with visual studio code and python 3.7. Note that this project may work with other systems, but CARLA
 is a resource intensive program.
@@ -76,10 +76,11 @@ is a resource intensive program.
 |----|----|----|
 |Windows 10.0.18363 Build 18363|NVIDIA GTX 1660 Super|32 GB|
 
-In this study the CARLA version 0.9.9 is being used along with python 3.7 to control the vehicle. The vehicle being used in this paper is a
-red Tesla Model3 with only one camera sensor.
+In this study the CARLA version 0.9.9 is being used along with python 3.7 to control the simulated vehicle in the CARLA simulator.
 
-#### Download for CARLA version 0.9.9
+### 4.2 Download and Install CARLA
+
+ #### Download for CARLA version 0.9.9
 > <https://github.com/carla-simulator/carla/releases/tag/0.9.9
 > [^1]
 
