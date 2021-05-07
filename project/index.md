@@ -203,13 +203,32 @@ The author if this project would like to thank Harrison Kinsley from the youtube
 
 ## 9. References
 
-[^1]: Link to the Carla_0.9.9 github, [GitHub]<https://github.com/carla-simulator/carla/releases/tag/0.9.9>
-[^2]:http://carla.org/
-[^3]:https://carla.readthedocs.io/en/0.9.9/getting_started/
-[^4]:https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf
-[^5]:https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
-[^6]:https://www.youtube.com/watch?v=EaY5QiZwSP4&t=1595s
-[^7]:https://www.tu-auto.com/toyota-invests-in-carla-open-source-av-simulator-project/
-[^8]:https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
-[^9]:https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0
-[^10]:https://www.researchgate.net/figure/Object-detection-in-a-dense-scene_fig4_329217107
+[^1]: Link to the Carla_0.9.9 github, [GitHub] 
+      <https://github.com/carla-simulator/carla/releases/tag/0.9.9>
+      
+[^2]: Link to Carla website, [Online Resource] 
+      <http://carla.org/>
+      
+[^3]: Documentation Explaing Key Features of Carla, [Online Resource] 
+      <https://carla.readthedocs.io/en/0.9.9/getting_started/>
+      
+[^4]: Explains architecture of Tesla's Neural Network,[Online Resource] 
+      <https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf>
+      
+[^5]: Introduction to Carla with Python, [Online Resource] 
+      <https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/>
+      
+[^6]: Toyota info on Carla simulator, [Online Resource] 
+      <https://www.tu-auto.com/toyota-invests-in-carla-open-source-av-simulator-project/>
+      
+[^7]: Tutorial For TensorFlow Object Detection API, [Online Resource] 
+      <https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html>
+      
+[^8]: Explains differences between models being used for Object Detection and performance, [Online Resource] 
+      <https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0>
+      
+[^9]: Object Detection Image, [Online Resource] 
+      <https://www.researchgate.net/figure/Object-detection-in-a-dense-scene_fig4_329217107>
+
+[^10]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+      <https://github.com/cloudmesh/cloudmesh-common>
