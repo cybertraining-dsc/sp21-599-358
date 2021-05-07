@@ -183,6 +183,10 @@ making process of the vehicle.
 
 ## 7. Benchmark
 
+The benchmark used for this project was the StopWatch function from the cloudmesh package [^11]. The function can see how long a particular section
+of code took compared to a different section in the program. In this project the section that took the longest was to setup pedestrian and traffic accross
+the simulated city. This makes sense because there are many vehicles and pedestrians that need to be spawned while also pre computing there trajectories.
+
 ![Figure5](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/Benchmark.PNG)
 
 **Figure 5**
