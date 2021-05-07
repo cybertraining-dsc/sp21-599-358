@@ -55,8 +55,8 @@ camera feed so that the neural network can be trained. Driving in the simulator 
 ### Driving in CARLA
 
 ![Figure1](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/CARLA_Image.png)
-**Figure 1**
-[^3]
+
+**Figure 1** [^3]
 
 ## 3. Using the TensorFlow Object Detection API
 
@@ -68,8 +68,8 @@ improve the state of the Computer vision field. Figure2 shows how the bounding b
 ### Obect Detection for Cars
 
 ![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ObjectCars.PNG)
-**Figure 2**
-[^10]
+
+**Figure 2** [^10]
 
 ## 4. Implementation
 
@@ -139,7 +139,8 @@ After installing the packages test your installation from the Downloads/models-m
 If the test was successful than you will a result similar to the one showed in Figure 3.
 
 > ![Figure3](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ModelSuccess.PNG)
-> **Figure 3**
+
+**Figure 3**
 
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
