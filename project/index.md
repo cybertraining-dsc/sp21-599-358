@@ -87,6 +87,7 @@ In this study the CARLA version 0.9.9 is being used along with python 3.7 to con
 ### 4.2 Download and Install CARLA
 
 #### Download for CARLA version 0.9.9
+
 > <https://github.com/carla-simulator/carla/releases/tag/0.9.9>
 > [^1]
 
@@ -101,13 +102,15 @@ of free disk space. Once the file is finished downloading, extract the content o
 
 #### From the Downloads folder clone the TensorFlow models git
 
-> git clone https://github.com/tensorflow/models.git
+```
+git clone https://github.com/tensorflow/models.git
+```
 
 Make sure to clone this git repository into the Downloads folder of your windows machine
 
 ### 4.4 Download Protobuf
 
-#### The link to the ProtoBuf repository is shown below:
+#### The link to the ProtoBuf repository download is shown below:
 
 > <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip>
 
