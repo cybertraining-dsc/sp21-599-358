@@ -132,6 +132,9 @@ After installing the packages test your installation from the Downloads/models-m
 
 If the test was successful than you will a result similar to the one showed in Figure 3.
 
+![Figure3](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ModelSuccess.PNG)
+**Figure 3**
+
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
