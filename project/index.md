@@ -85,6 +85,7 @@ In this study the CARLA version 0.9.9 is being used along with python 3.7 to con
 > [^1]
 
 ##### The file to download is shown below:
+
 > CARLA_0.9.9.zip
 
 Make sure to download the compiled version for Windows. The Carla Simulator is around 25GB, so to replicate the study one must have 30-50GB
@@ -101,9 +102,21 @@ Make sure to clone this git repository into the Downloads folder of your windows
 ### 4.4 Download Protobuf
 
 #### The link to the ProtoBuf repository is shown below:
+
 > <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip
 
-This installation 
+The Tensorflow Object Detection API uses Protobufs to configure model and training parameters. Before the framework can be used,
+the Protobuf libraries must be downloaded and compiled [^8]. Make sure that you extract the file to the Downloads folder. To configure
+the model within the directory structure run the commands below.
+
+#### Run the pwd command from powershell and get the path from root to Downloads folder
+> pwd
+
+#### When running the command make sure that you are in '~/Downloads/models-master/research'
+> 'PathFromDownloads/Downloads'/protoc object_detection/protos/*.proto --python_out=.
+
+The command shown above configures protobuf so that the object detection API could be used. Make sure you are in the Downloads/models-master/research path
+
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
