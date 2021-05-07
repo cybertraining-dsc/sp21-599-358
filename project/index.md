@@ -84,8 +84,9 @@ In this study the CARLA version 0.9.9 is being used along with python 3.7 to con
 > <https://github.com/carla-simulator/carla/releases/tag/0.9.9
 > [^1]
 
-The file to download is shown below:
+##### The file to download is shown below:
 > CARLA_0.9.9.zip
+
 Make sure to download the compiled version for Windows. The Carla Simulator is around 25GB, so to replicate the study one must have 30-50GB
 of free disk space. Once the file is finished downloading, extract the content of the CARLA zip file into the Downloads folder.
 
@@ -95,6 +96,7 @@ of free disk space. Once the file is finished downloading, extract the content o
 
 > git clone https://github.com/tensorflow/models.git
 
+Make
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
