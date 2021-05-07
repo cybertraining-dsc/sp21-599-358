@@ -91,7 +91,9 @@ of free disk space. Once the file is finished downloading, extract the content o
 
 ### 4.3 Download and Install TensorFlow Object Detection API
 
+#### From the Downloads folder clone the TensorFlow models git
 
+> git clone https://github.com/tensorflow/models.git
 
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
