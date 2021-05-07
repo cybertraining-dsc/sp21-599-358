@@ -117,20 +117,25 @@ the model within the directory structure run the commands below.
 
 #### Run the pwd command from powershell and get the path from root to Downloads folder
 
-> pwd
+```
+pwd
+```
 
 #### When running the command make sure that you are in '~/Downloads/models-master/research'
 
 ```
 'PathFromDownloads/Downloads'/protoc object_detection/protos/*.proto --python_out=.
 ```
+
 The command shown above configures protobuf so that the object detection API could be used. Make sure you are in the Downloads/models-master/research path.
 Run the commands below to install all of the necessary packages to run the object detection API.
 
 #### Make sure that you are in Downloads/models-master/research when running this command
-> cp object_detection/packages/tf2/setup.py .
-> python -m pip install .
 
+```
+cp object_detection/packages/tf2/setup.py .
+python -m pip install .
+```
 After installing the packages test your installation from the Downloads/models-master/research path and run the command below.
 
 #### Test Installation
