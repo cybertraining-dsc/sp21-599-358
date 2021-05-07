@@ -55,6 +55,7 @@ camera feed so that the neural network can be trained. The driving in the simula
 ### Running CARLA
 
 #### System Requirements
+
 This project uses windows 10 along with visual studio code and python 3.7. Note that this project may work with other systems, but CARLA
 is a resource intensive program.
 
@@ -63,7 +64,8 @@ is a resource intensive program.
 |Windows 10.0.18363 Build 18363|NVIDIA GTX 1660 Super|32 GB|
 
 In this study the CARLA version 0.9.9 is being used along with python 3.7 to control the vehicle. The vehicle being used in this paper is a
-red Tesla Model3 with only one camera sensor. 
+red Tesla Model3 with only one camera sensor.
+
 #### Download for CARLA version 0.9.9
 > <https://github.com/carla-simulator/carla/releases/tag/0.9.9
 > [^1]
@@ -82,7 +84,9 @@ making process of the vehicle.
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
 
 ## 5. Results
+
 > <https://drive.google.com/file/d/13RXIy74APbwSqV_zBs_v59v4ZOnWdtrT/view?usp=sharing
+> 
 ## 5. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
