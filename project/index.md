@@ -252,5 +252,5 @@ his knowledge in Deep Learning and Artificial Intelligence throughout this cours
 [^10]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
 
-[^11]: Protobuf github download, [GitHub] 
+[^11]: Protobuf github download, [GitHub]  
       <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip>
