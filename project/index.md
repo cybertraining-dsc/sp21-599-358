@@ -59,9 +59,9 @@ for self-driving cars because it can provide known obstacles where the vehicle i
 on the COCO dataset which is a dataset consisting of about 300,000 of 90 of the most commonly found objects. Google provided this API to
 improve the state of the Computer vision field. Figure2 shows how the bounding boxes classify images using the object detection API. 
 
-### Driving in CARLA
+### Obect Detction for Cars
 
-![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/CARLA_Image.png)
+![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ObjectCars.PNG)
 **Figure 2**
 [^3]
 
@@ -122,3 +122,4 @@ The author if this project would like to thank Harrison Kinsley from the youtube
 [^7]:https://www.tu-auto.com/toyota-invests-in-carla-open-source-av-simulator-project/
 [^8]:https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 [^9]:https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0
+[^10]:https://www.researchgate.net/figure/Object-detection-in-a-dense-scene_fig4_329217107
