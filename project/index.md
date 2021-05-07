@@ -4,6 +4,11 @@
 [![Status](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
 Status: in progress, Type: Project
 
+
+TODO: pleas euse proper newlines after image inclusion and between figures
+TODO: citations in a figure must be in the same line
+TODO: please review our example report we posted. YOu create just more work for yourself while inventing your own format.
+
 Jesus Badillo, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/blob/main/project/index.md)
 
 {{% pageinfo %}}
