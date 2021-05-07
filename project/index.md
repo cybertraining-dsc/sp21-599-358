@@ -156,6 +156,16 @@ If the test was successful than you will a result similar to the one showed in F
 
 **Figure 3**
 
+### 4.5 Running Carla With Object Detection
+
+The directory structure for the CARLA for the project Looks
+
+Downloads
+|---CARLA_0.9.9
+|---WindowsNoEditor
+|---models-master
+|---protoc
+  
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
