@@ -87,7 +87,7 @@ In this study the CARLA version 0.9.9 is being used along with python 3.7 to con
 ### 4.2 Download and Install CARLA
 
 #### Download for CARLA version 0.9.9
-> <https://github.com/carla-simulator/carla/releases/tag/0.9.9
+> <https://github.com/carla-simulator/carla/releases/tag/0.9.9>
 > [^1]
 
 ##### The file to download is shown below:
@@ -109,7 +109,7 @@ Make sure to clone this git repository into the Downloads folder of your windows
 
 #### The link to the ProtoBuf repository is shown below:
 
-> <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip
+> <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip>
 
 The Tensorflow Object Detection API uses Protobufs to configure model and training parameters. Before the framework can be used,
 the Protobuf libraries must be downloaded and compiled [^8]. Make sure that you extract the file to the Downloads folder. To configure
@@ -136,11 +136,14 @@ Run the commands below to install all of the necessary packages to run the objec
 cp object_detection/packages/tf2/setup.py .
 python -m pip install .
 ```
+
 After installing the packages test your installation from the Downloads/models-master/research path and run the command below.
 
 #### Test Installation
 
-> python object_detection/builders/model_builder_tf2_test.py
+```
+python object_detection/builders/model_builder_tf2_test.py
+```
 
 #### Test Success
 
@@ -159,8 +162,8 @@ making process of the vehicle.
 
 ## 6. Results
 
-> <https://drive.google.com/file/d/13RXIy74APbwSqV_zBs_v59v4ZOnWdtrT/view?usp=sharing
-> 
+> <https://drive.google.com/file/d/13RXIy74APbwSqV_zBs_v59v4ZOnWdtrT/view?usp=sharing>
+
 ## 5. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
