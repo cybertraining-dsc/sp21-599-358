@@ -61,7 +61,7 @@ for self-driving cars because it can provide known obstacles where the vehicle i
 on the COCO dataset which is a dataset consisting of about 300,000 of 90 of the most commonly found objects. Google provided this API to
 improve the state of the Computer vision field. Figure2 shows how the bounding boxes classify images using the object detection API. 
 
-![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ObjectCars.PNG)
+![Figure2](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ObjectCars.png)
 
 **Figure 2** Obect Detection for Cars [^9]
 
@@ -103,7 +103,7 @@ Make sure to clone this git repository into the Downloads folder of your windows
 
 ### 4.4 Download Protobuf
 
-#### The link to the ProtoBuf repository download is shown below:
+#### The link to the ProtoBuf repository download is shown below
 
 > <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip> [^11]
 
@@ -145,7 +145,7 @@ python object_detection/builders/model_builder_tf2_test.py
 
 If the test was successful than you will a result similar to the one showed in Figure 3.
 
-![Figure3](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ModelSuccess.PNG)
+![Figure3](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ModelSuccess.png)
 
 **Figure 3**
 
@@ -169,7 +169,6 @@ is providid in this git repository called tutorialEgo.py. The two code snippets 
 "your path"\Downloads\CARLA_0.9.9\WindowsNoEditorPythonAPI\examples> py -3.7 .\tutorialEgo.py
 ```
 
-  
 ## 5. Training Model
 
 |Model Name|Speed|COCO mAP|
@@ -190,7 +189,7 @@ In this project the ssd_mobilenet_v1_coco model was used because it is the faste
 The accuracy of the model was not very good at detecting other scenery, but it was able to detect the most important obstacles for self-driving cars
 such as other vehicles, pedestrians, and traffic signals. The video below shows a simulation in the Carla simulated vehicle with object detection.
 
-![Figure4](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ProgramRunning.PNG)
+![Figure4](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/ProgramRunning.png)
 
 **Figure 4** Object Detection in CARLA
 
@@ -202,7 +201,7 @@ The benchmark used for this project was the StopWatch function from the cloudmes
 of code took compared to a different section in the program. In this project the section that took the longest was to setup pedestrian and traffic accross
 the simulated city. This makes sense because there are many vehicles and pedestrians that need to be spawned while also pre computing there trajectories.
 
-![Figure5](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/Benchmark.PNG)
+![Figure5](https://github.com/cybertraining-dsc/sp21-599-358/raw/main/project/images/Benchmark.png)
 
 **Figure 5**
 
