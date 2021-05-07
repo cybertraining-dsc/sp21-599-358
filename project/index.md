@@ -96,7 +96,14 @@ of free disk space. Once the file is finished downloading, extract the content o
 
 > git clone https://github.com/tensorflow/models.git
 
-Make
+Make sure to clone this git repository into the Downloads folder of your windows machine
+
+### 4.4 Download Protobuf
+
+#### The link to the ProtoBuf repository is shown below:
+> <https://github.com/protocolbuffers/protobuf/releases/download/v3.16.0/protoc-3.16.0-win64.zip
+
+This installation 
 ## 5. Deep Learning Algorithm for Self Driving Cars
 
 To train the neural network for the self driving car there will be using a neural network that can learn from its previous iterations much like
