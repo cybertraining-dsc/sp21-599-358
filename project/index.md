@@ -6,6 +6,9 @@ Status: final, Type: Project
 
 Jesus Badillo, [sp21-599-358](https://github.com/cybertraining-dsc/sp21-599-358/), [Edit](https://github.com/cybertraining-dsc/sp21-599-358/blob/main/project/index.md)
 
+* Code:
+  * [tutorialEgo.py](https://github.com/cybertraining-dsc/sp21-599-358/blob/main/project/code/tutorialEgo.py) 
+
 {{% pageinfo %}}
 
 ## Abstract
