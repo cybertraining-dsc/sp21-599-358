@@ -1,9 +1,9 @@
 ---
 date: 2021-03-15
-title: Project: Training A Vehicle Using Camera Feed from Vehicle Simulation
+title: "Project: Training A Vehicle Using Camera Feed from Vehicle Simulation"
 linkTitle: 
 tags: ["project", "ai", "transportation"]
-description: Project: Training A Vehicle Using Camera Feed from Vehicle Simulation
+description: "Training A Vehicle Using Camera Feed from Vehicle Simulation"
 author: Jesus Badillo
 resources:
 - src: "**.{png,jpg}"
