@@ -3,7 +3,7 @@ date: 2021-03-15
 title: "Project: Training A Vehicle Using Camera Feed from Vehicle Simulation"
 linkTitle: 
 tags: ["project", "ai", "transportation"]
-description: "Training A Vehicle Using Camera Feed from Vehicle Simulation"
+description: "Deep Learning has become the main form of machine learning that has been used to train, test, and gather data for self-driving cars. The CARLA simulator has been developed from the ground up so that reasearchers who normally do not have the capital to generate their own data for self-driving vehicles can do so to fit their spcific model. CARLA provides many tools that can simulate many scenarios that an autonomous vehicle would run into. The benefit of CARLA is that it can simulate scenarios that may be too dangerous for a real vehicle to perform, such as a full self-driving car in a heavly populated area. CARLA has the backing of many companies who lead industry like Toyota who invested $100,000 dollars in 2018. This project uses the CARLA simulator to visualize how a real camera system based self-driving car sees obstacles and objects."
 author: Jesus Badillo
 resources:
 - src: "**.{png,jpg}"
