@@ -1,4 +1,15 @@
-# Project: Training A Vehicle Using Camera Feed from Vehicle Simulation
+---
+date: 2021-03-15
+title: Project: Training A Vehicle Using Camera Feed from Vehicle Simulation
+linkTitle: 
+tags: ["project", "ai", "transportation"]
+description: Project: Training A Vehicle Using Camera Feed from Vehicle Simulation
+author: Jesus Badillo
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
+
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-358/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-358/actions)
